@@ -1,2 +1,2 @@
 # preparationProject
-This project is for preparing our team for building Hakathon project, it's goals is to enhance our collaborative skills and also for having fun.
+This project is intended to prepare our team for building a Hakathon project, its goals is to enhance our collaborative skills and also for having fun.
